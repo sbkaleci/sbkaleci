@@ -1,9 +1,9 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Semih
 
 Welcome to my GitHub profile!
 
 ## About Me
-I'm a [your profession or area of study] passionate about [your interests or fields of expertise]. I enjoy working on projects related to [list some topics or technologies you like].
+I'm a computer science student passionate about physics, mathematics, music and literature. I enjoy working on projects related to data science, AI and scientific computing.
 
 ## Projects
 Here are some of the projects I've worked on:
@@ -12,5 +12,5 @@ Here are some of the projects I've worked on:
 - [Project 3](https://github.com/your-username/project-3): Brief description of Project 3.
 
 ## Skills
-- **Programming Languages**: Python, JavaScript, Java, C++
-- **Frameworks and Libraries**: React, Django, Flask, Node.js
+- **Programming Languages**: Python, JavaScript, Java, Dart
+- **Frameworks and Libraries**: Numpy, Scipy, Matplotlib, Pandas, Flask, Flutter
