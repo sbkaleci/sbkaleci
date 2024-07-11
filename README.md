@@ -6,5 +6,5 @@ Welcome to my GitHub profile!
 I'm a computer science student passionate about physics, mathematics, music and literature. I enjoy working on projects related to data science, AI and scientific computing.
 
 ## Skills
-- **Programming Languages**: Python, JavaScript, Java, Dart
-- **Frameworks and Libraries**: Numpy, Scipy, Matplotlib, Pandas, Flask, Flutter
+- **Programming Languages**: Python, C, JavaScript, Java, Dart
+- **Frameworks and Libraries**: Numpy, Scikit-Learn, Scipy, Matplotlib, Pandas, Flask, Flutter
