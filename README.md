@@ -1,5 +1,4 @@
 # Hello, I'm Semih
-
 Welcome to my GitHub profile!
 
 ## About Me
@@ -7,4 +6,5 @@ I'm a computer science student passionate about physics, mathematics, music and 
 
 ## Skills
 - **Programming Languages**: Python, C, JavaScript, Java, Dart
-- **Frameworks and Libraries**: Numpy, Scikit-Learn, Scipy, Matplotlib, Pandas, Flask, Flutter
+- **Frameworks and Libraries**: Numpy, Scikit-Learn, Tensorflow/Keras, Scipy, Matplotlib, Pandas, Flask, Flutter
+- **Software & Tools**: Git, Github, Jupyter Notebooks, Linux, LaTeX
